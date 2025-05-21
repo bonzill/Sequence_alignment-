@@ -1,5 +1,7 @@
 # Sequence_alignment-
-Trying my hands Sequence Alignment using python
+Trying my hand at Sequence Alignment using Python
+
+## bioinformatics
 
 **Sequence Alignment in Python**
 This project features a simple implementation of sequence alignment using the Needleman-Wunsch algorithm in Python.
