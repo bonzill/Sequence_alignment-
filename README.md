@@ -1,5 +1,5 @@
 # Sequence_alignment-
-Trying my hands Sequence Alignment using python
+Trying my hand at Sequence Alignment using Python
 
 **Sequence Alignment in Python**
 This project features a simple implementation of sequence alignment using the Needleman-Wunsch algorithm in Python.
@@ -12,8 +12,8 @@ The code was developed by consulting various existing resources and literature o
 
 **How to Use**
 Clone the repository.
-Run the script to see the alignment of the provided DNA sequences.
-Feel free to modify the sequences for your own analysis!
+You can just run the script to see the alignment of the provided DNA sequences.
+Feel free to modify the sequences for your analysis!
 
 **Acknowledgments**
-Special thanks to the online programming community and educational resources that guided me through this project.
+Thanks to the online programming community and educational resources that guided me through this project.
